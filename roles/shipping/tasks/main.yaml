@@ -1,6 +1,6 @@
 - name: app-setup
   include_role:
-    name: command
+    name: common
     tasks_from: app-setup
 
 - name: maven-setup
