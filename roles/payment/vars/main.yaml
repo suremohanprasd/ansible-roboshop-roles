@@ -1,0 +1,3 @@
+CART_HOST: cart.dontgiveup.space
+USER_HOST: user.dontgiveup.space
+RABBITMQ_HOST: rabbitmq.dontgiveup.space
