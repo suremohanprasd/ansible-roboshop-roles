@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.dontgiveup.space
+USER_HOST: user.dontgiveup.space
+CART_HOST: cart.dontgiveup.space
+SHIPPING_HOST: shipping.dontgiveup.space
+PAYMENT_HOST: payment.dontgiveup.space
