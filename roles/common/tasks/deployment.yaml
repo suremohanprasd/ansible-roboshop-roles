@@ -18,6 +18,7 @@
     src: "https://roboshop-artifacts.s3.amazonaws.com/{{ component }}-v{{ app_version }}.zip"
     dest: /app
     remote_src: yes
+    ignore_errors: true
 
 - name: install dependencies
   community.general.npm:
